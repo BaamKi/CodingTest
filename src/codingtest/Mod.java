@@ -6,7 +6,7 @@ public class Mod {
 
         Solution solution = new Solution();
         int answer = solution.solution(10,3);
-        System.out.println(answer);
+        System.out.println(answer);     //프로그래머스 나머지 문제
 
     }
 
